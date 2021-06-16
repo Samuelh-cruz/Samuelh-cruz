@@ -1,4 +1,4 @@
-## Olá, Eu sou o Samuel Henrique 
+## Olá, Eu sou o Samuel Cruz
  <div>
   <a href="https://github.com/Samuelh-cruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuelh-cruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
