@@ -1,4 +1,4 @@
-Data • CRM • Growth • Automation
+<h1>Data • CRM • Growth • Automation</h1>
 
 
 -- Analista em formação apaixonado por BI, CRM, Growth e automação de processos.
