@@ -6,8 +6,8 @@
 
     ## 💡 Minha missão
 
-    Utilizar dados para entender comportamentos, automatizar processos e apoiar decisões estratégicas.
-
+    Acredito que dados só geram valor quando ajudam pessoas a tomar melhores decisões. Meu objetivo é transformar informação em estratégia por meio de BI, CRM, automação e tecnologia.
+    
 ## 📖 Atualmente
 
 📚 Documentando minha evolução em SQL neste GitHub
