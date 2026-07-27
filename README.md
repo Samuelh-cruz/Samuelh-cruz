@@ -1,12 +1,15 @@
-# 👋 Olá, eu sou o Samuel Cruz
+Data • CRM • Growth • Automation
 
-Transformando dados em decisões. 
 
 -- Analista em formação apaixonado por BI, CRM, Growth e automação de processos.
 
-🚀 Atualmente
+    ## 💡 Minha missão
 
-📚 Estudando SQL todos os dias
+    Utilizar dados para entender comportamentos, automatizar processos e apoiar decisões estratégicas.
+
+## 📖 Atualmente
+
+📚 Documentando minha evolução em SQL neste GitHub
 
 📊 Construindo dashboards em Power BI
 
@@ -32,3 +35,6 @@ Transformando dados em decisões.
   ![Snake animation](https://github.com/Samuelh-cruz/Samuelh-cruz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
+🚀 Sempre aprendendo. Sempre construindo.
