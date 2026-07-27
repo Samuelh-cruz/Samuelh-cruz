@@ -1,5 +1,6 @@
-<h1>Data • CRM • Growth • Automation</h1>
+<h1>👋 Samuel Cruz</h1>
 
+<h2>Data • CRM • Growth • Automation </h2>
 
 -- Analista em formação apaixonado por BI, CRM, Growth e automação de processos.
 
