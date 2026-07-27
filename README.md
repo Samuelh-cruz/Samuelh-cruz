@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelh-cruz&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display:flex;"><br>
   <img align="center" alt="SQL Server" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 
