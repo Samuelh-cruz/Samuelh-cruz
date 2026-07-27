@@ -6,7 +6,7 @@
 
     ## 💡 Minha missão
 
-    Acredito que dados só geram valor quando ajudam pessoas a tomar melhores decisões. Meu objetivo é transformar informação em estratégia por meio de BI, CRM, automação e tecnologia.
+    Utilizar dados para entender comportamentos, automatizar processos e apoiar decisões estratégicas.
     
 ## 📖 Atualmente
 
