@@ -1,9 +1,20 @@
-## Olá, Eu sou o Samuel Cruz
- <div>
-  <a href="https://github.com/Samuelh-cruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuelh-cruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelh-cruz&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+# 👋 Olá, eu sou o Samuel Cruz
+
+Transformando dados em decisões. 
+
+-- Analista em formação apaixonado por BI, CRM, Growth e automação de processos.
+
+🚀 Atualmente
+
+📚 Estudando SQL todos os dias
+
+📊 Construindo dashboards em Power BI
+
+🤖 Automatizando processos
+
+📈 Aprendendo CRM & Growth
+
+🐍 Evoluindo em Python
 
 <div align="left">
   <img alt="SQL Server" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
