@@ -5,24 +5,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelh-cruz&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<div style="display:flex;"><br>
-  <img align="center" alt="SQL Server" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-
-  <img align="center" alt="Python" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <img align="center" alt="Git" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-  <img align="center" alt="GitHub" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
-  <img align="center" alt="VS Code" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-
-  <img align="center" alt="Power BI" height="30" width="40"
-  src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+<div align="left">
+  <img alt="SQL Server" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Power BI" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
   
  ##
